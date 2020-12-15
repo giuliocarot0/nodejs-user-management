@@ -1,0 +1,28 @@
+{
+  "name": "express-user-management",
+  "version": "1.0.0",
+  "description": "Node.js + Express user management framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliocarot0/nodejs-user-management.git"
+  },
+  "keywords": [
+    "user",
+    "management",
+    "nodejs",
+    "express"
+  ],
+  "author": "Giulio Carota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliocarot0/nodejs-user-management/issues"
+  },
+  "homepage": "https://github.com/giuliocarot0/nodejs-user-management#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
